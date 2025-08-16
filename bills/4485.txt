@@ -1,0 +1,24 @@
+	Welcome Webcode Reatil
+
+ Bill Number : 4485
+ Customer Name : Binit Semwal
+ Phone Number : 9898989898 
+======================================
+ Products		QTY		Price
+======================================
+ Bath Soap		1		40
+ Face Cream		1		120
+ Face Wash		1		60
+ Body Lotion		1		180
+ Rice		5		200
+ Food Oil		1		120
+ Daal		2		120
+ Sugar		1		140
+ Tea		1		180
+ Coca Cola		2		120
+--------------------------------------
+ Cosmetic Tax			Rs. 20.0
+ Grocery Tax			Rs. 76.0
+ Cold Drink Tax			Rs. 6.0
+ Total Bill : 			 Rs. 1382.0
+--------------------------------------
